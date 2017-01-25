@@ -1,0 +1,3 @@
+define facu(n) = if n then n*facu(n-1) else 1.
+define plus(x,y) = x+y.
+facu(plus(5,6))
