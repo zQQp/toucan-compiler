@@ -216,7 +216,6 @@ Li reverse(Li this){
 void toucanSplash(){
 
 	printf("### TOUCAN COMPILER - COMPILERBAU WS12/13 ###\n");     
-
 	printf("            .7NNNMM??+??+~,:...\n");     
 	printf("         ...MO?+==IM?7II+?$?$-,:.\n");
 	printf("         ..7++??$=N?IIIIII?++I??~~\n");
@@ -229,7 +228,7 @@ void toucanSplash(){
 	printf("  :NMMMDNM8O7?I7$ZZNM.\n");
 	printf("  8MMMMN8DN8O8D88DMM8.\n");
 	printf("  $.MMMMMMNMN88MMN..\n");
-	printf("  .MMMMD88NNNNM8..   nierhaus@live.com\n");
+	printf("  .MMMMD88NNNNM8..   http://nierha.us/\n");
 	printf(" .NMMMMMM,.,MM...\n");
 	printf(" .MMMMM=M.  .O,..\n");
 	printf(".$MM$MMII=. .~8NIIOO.\n");
