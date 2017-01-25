@@ -1,6 +1,6 @@
 # README FILE FOR TOUCAN COMPILER
 
-by Jens-Christoph Nierhaus / jens@nierha.us
+by Jens-Christoph Nierhaus | jens@nierha.us | http://nierha.us/
 
 # Language:
 
